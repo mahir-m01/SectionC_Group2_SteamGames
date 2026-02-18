@@ -16,6 +16,10 @@ The final output includes:
 
 - Business-focused insights and recommendations
 
+Final output dashboard visualization
+
+![Steam Games Dashboard](Dashboard/Dashboard.png)
+
 ---
 ## Data Source
 
