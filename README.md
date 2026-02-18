@@ -15,33 +15,6 @@ The final output includes:
 - Interactive dashboards built in Google Sheets
 
 - Business-focused insights and recommendations
----
-## Repository Structure
-
-
-── Raw Dataset/
-│ └── Original Steam dataset (as sourced)
-│
-├── Cleaned Dataset/
-│ └── Cleaned and transformed dataset used for analysis
-│
-├── Calculation and Pivot Tables/
-│ └── KPI calculations, derived columns, and pivot tables
-│
-├── Dashboard/
-│ └── Final interactive dashboard (Google Sheets exports/screenshots)
-│
-├── Documentation/
-│ └── Project report and supporting documentation
-│
-├── Presentation/
-│ └── Final presentation slides
-│
-├── Logs/
-│ └── Data cleaning, feature engineering, and analysis logs
-│
-├── README.md
-└── .gitignore
 
 ---
 ## Data Source
