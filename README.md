@@ -16,7 +16,7 @@ The final output includes:
 
 - Business-focused insights and recommendations
 
-Final output dashboard visualization
+Final output dashboard visualization [Preview live dashboard](https://docs.google.com/spreadsheets/d/1DPXJUWniEpypmdDw2xhfW4OhgbheznYVoae_yg3CmW4/edit?gid=293185833#gid=293185833&fvid=240560395)
 
 ![Steam Games Dashboard](Dashboard/Dashboard.png)
 
@@ -25,9 +25,9 @@ Final output dashboard visualization
 
 - **Dataset:** Steam Games Metadata
 
-- **Source:** Kaggle (public Steam data)
+- **Source:** Kaggle [Download dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset)
 
-- **Original Size:** ~50,000 games
+- **Original Size:** ~90,000 games
 
 - **Analysis Sample:** ~7,000 games
 
